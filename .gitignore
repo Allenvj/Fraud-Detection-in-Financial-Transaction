@@ -1,5 +1,5 @@
 # Ignore dataset uploads and processed files
-dataset/
+dataset/Fraud.csv
 uploads/
 processed_files/
 static/predicted_data.csv
