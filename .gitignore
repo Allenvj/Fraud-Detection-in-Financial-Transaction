@@ -1,7 +1,11 @@
-# Ignore dataset and uploaded files
+# Ignore dataset uploads and processed files
 dataset/
 uploads/
 processed_files/
+static/predicted_data.csv
+static/processed.csv
+static/processed_data.csv
+
 
 # Python cache files
 __pycache__/
