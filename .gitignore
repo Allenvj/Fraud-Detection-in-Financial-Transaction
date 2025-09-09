@@ -1,0 +1,21 @@
+# Ignore dataset and uploads
+dataset/
+uploads/
+
+# Ignore processed files
+processed_files/
+
+# Ignore model files if too large
+model/*.pkl
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+.env
+
+# Ignore IDE files
+*.vscode/
+*.idea/
